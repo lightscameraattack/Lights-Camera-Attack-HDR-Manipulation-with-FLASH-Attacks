@@ -1,0 +1,6 @@
+opencv-python>=4.5.0
+numpy>=1.20.0
+matplotlib>=3.3.0
+scikit-image>=0.18.0
+pathlib2>=2.3.0
+pillow>=8.0.0
